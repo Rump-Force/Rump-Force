@@ -14,4 +14,8 @@
 - Изучаю новые фишки верстки.
 - Ищу свой «уровень» в этом бесконечном мире кода.
 
-![Flutter](https://img.shields.io/badge/-Flutter-a6f7b5?style=for-the-badge)
+### 🛠 Мой стек:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
