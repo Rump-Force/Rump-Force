@@ -38,8 +38,7 @@
 
 ### 🐍 Моя активность в коде:
 
-![snake gif](https://github.com/Rump-Force/YOUR_USERNAME/blob/output/github-snake-dark.svg)
-
+![snake gif](https://github.com/Rump-Force/Rump-Force/blob/output/github-snake-dark.svg)
 
 ### 📊 Моя статистика:
 
