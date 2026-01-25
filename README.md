@@ -14,12 +14,21 @@
 - Изучаю новые фишки верстки.
 - Ищу свой «уровень» в этом бесконечном мире кода.
 
+### ⚡ Hardware & Setup:
+
+- **Keyboard:** Собрал и запрограммировал кастомный сплит **Corne**.
+
 ### 🛠 Мой стек:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### ⌨️ Hardware:
+
+![Corne Keyboard](<https://img.shields.io/badge/Keyboard-Corne%20(Split)-blueviolet?style=for-the-badge&logo=qmk&logoColor=white>)
 
 ### 📫 Как со мной связаться:
 
@@ -29,10 +38,8 @@
 
 ### 🐍 Моя активность в коде:
 
-![GitHub snake](https://raw.githubusercontent.com/Alexander1302313/Alexander1302313/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Rump-Force/YOUR_USERNAME/blob/output/github-snake-dark.svg)
 
-### 🏆 Мои достижения:
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Alexander1302313&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+### 📊 Моя статистика:
 
-### 💬 Цитата для вдохновения:
-![Цитата программиста](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Alexander1302313's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rump-Force&show_icons=true&theme=radical)
