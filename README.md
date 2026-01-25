@@ -40,6 +40,7 @@
 
 ![snake gif](https://github.com/Rump-Force/YOUR_USERNAME/blob/output/github-snake-dark.svg)
 
+
 ### 📊 Моя статистика:
 
 ![Alexander1302313's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rump-Force&show_icons=true&theme=radical)
