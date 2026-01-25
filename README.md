@@ -30,3 +30,9 @@
 ### 🐍 Моя активность в коде:
 
 ![GitHub snake](https://raw.githubusercontent.com/Alexander1302313/Alexander1302313/output/github-contribution-grid-snake.svg)
+
+### 🏆 Мои достижения:
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Alexander1302313&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 💬 Цитата для вдохновения:
+![Цитата программиста](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
