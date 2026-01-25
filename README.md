@@ -14,4 +14,4 @@
 - Изучаю новые фишки верстки.
 - Ищу свой «уровень» в этом бесконечном мире кода.
 
-![Flutter](https://img.shields.io/badge/-Flutter-red?style=for-the-badge)
+![Flutter](https://img.shields.io/badge/-Flutter-a6f7b5?style=for-the-badge)
