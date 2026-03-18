@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Rump-Force/Rump-Force/blob/main/assets/alex.jpg?raw=true" width="600" alt="Header">
+  <img src="https://github.com/Rump-Force/Rump-Force/blob/main/assets/alexanser.jpeg?raw=true" width="600" alt="Header">
   <h1>Hi, I'm Alexander 👋</h1>
 
   [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Alexander1302313)
